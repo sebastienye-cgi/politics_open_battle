@@ -6,7 +6,7 @@ Formez votre parti, unissez vous, formez des alliances pour conquérier le pouvo
 - Joueurs : De 1 à 30 joueurs
 - Temps de parti : ??
 
-## Matériel
+### Matériel
 - un dé
 
 ### Mise en place
@@ -16,16 +16,11 @@ Pour ceux ne souhaitant pas débattre, vous formerez le *demos*, càd le peuple.
 
 ### Comment gagner ?
 Débattre au tour par tour, sur un sujet de fond.
-
 - Education
-  - 
-
 - Sécurité intérieur
   - immigration
-
 - Economie
   - investissement
-
 - Ecologie
   - décarbonner notre économie
 
