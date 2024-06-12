@@ -1,4 +1,5 @@
 # Politics Open Battle
+![Game](./img/deux_personnes_debattent.jfif)
 
 Formez votre parti, unissez vous, formez des alliances pour conquérier le pouvoir suprème.
 
@@ -28,7 +29,6 @@ Débattre au tour par tour, sur un sujet de fond.
 2. Vote finale pour élire un parti, aprés avoir entendu chacun sur son programme.
 
 ### Comment jouer ?
-
 Piochez une carte rôle, vous devrez défendre la vision du parti.
 
 Une pile évènement, que l'on déroule au fur et à mesure, ponctuer de différents évènements.
